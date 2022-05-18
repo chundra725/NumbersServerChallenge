@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersServerChallenge", "NumbersServerChallenge\NumbersServerChallenge.csproj", "{941C6C57-A77C-4116-AEE2-FC17E6238E32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{4CECCDAD-194D-4449-BF7A-3C6CE95D7159}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{941C6C57-A77C-4116-AEE2-FC17E6238E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941C6C57-A77C-4116-AEE2-FC17E6238E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941C6C57-A77C-4116-AEE2-FC17E6238E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941C6C57-A77C-4116-AEE2-FC17E6238E32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CECCDAD-194D-4449-BF7A-3C6CE95D7159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CECCDAD-194D-4449-BF7A-3C6CE95D7159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CECCDAD-194D-4449-BF7A-3C6CE95D7159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CECCDAD-194D-4449-BF7A-3C6CE95D7159}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3441664-36E5-4C05-B2A6-6246CDA4FB71}
+	EndGlobalSection
+EndGlobal
